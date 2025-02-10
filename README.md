@@ -1,5 +1,5 @@
-# python_test
-Python Testing 100 Important Points
+# Python Test
+Python Testing 100 Important Questions
 
 **100 Python test questions and answers** related to Python testing, including topics like **mocking**, **pytest**, **unittest (pyunit)**, **fixtures**, and more. These questions are categorized for better understanding.
 
